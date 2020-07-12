@@ -1,3 +1,5 @@
 Hola, mi nombre es Facundo Perez Schneider y estoy haciendo el curso de Git y GitHub.
 
 Me encanta aprender con Platzi!!!
+
+Mis fortalezas son el compromiso y la autocrítica
