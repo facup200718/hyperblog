@@ -1,0 +1,3 @@
+Hola, mi nombre es Facundo Perez y estoy haciendo el curso de Git y GitHub.
+
+Me encanta aprender con Platzi!!!
